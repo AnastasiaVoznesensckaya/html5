@@ -1,0 +1,110 @@
+#blue {
+    color: blue;
+    font-family: Tahoma;
+    }
+    #blue_2 {
+        color: #3366ff;
+        font-family: Tahoma;
+    }
+    #brown {
+        color: brown;
+        font-family: Times;
+    }
+    #brown_2 {
+        color: firebrick;
+        font-family: Times;
+    }
+    a {
+        color: blue;
+        text-decoration: none;
+    }
+    a:visited {
+        color: blue;
+        text-decoration: none;
+    }
+    a:hover {
+        color: orangered;
+        text-decoration: none;
+    }
+    .menu {
+        background-color: #ccffff;
+    }
+    .main h1 {
+    text-align: center;
+    color: blue;
+    font-family: Verdana;
+    font-size: 20pt;
+    }
+    .main h2 {
+        text-align: right;
+        color: #800000;
+        font-family: Verdana;
+        font-size: 20pt;
+    }
+    .main p {
+        text-align: justify;
+        color: darkblue;
+        font-family: Arial;
+        font-style: 12pt;
+        font-weight: bold;
+    }
+    body {
+    background-color: lightblue;
+    }
+    .main h3 {
+        font-family: Tahoma;
+        color: green;
+        text-decoration: underline;
+    }
+    .main ol {
+        list-style-type: upper-roman;
+    }
+    .main ul {
+        list-style-image: url(spisok_1.gif);
+    }
+    h1.main, h1.golub, h1.krasn, h1.zelen, h1.oranzhev {
+        color: navy;
+        font-family: Verdana;
+        text-align: left;
+        font-style: 14pt;
+    }
+    h1.main {
+        color: navy;
+    }
+    h1.golub {
+        color: blue;
+    }
+    h1.krasn {
+        color: red;
+    }
+    h1.zelen {
+        color: green;
+    }
+    h1.oranzhev {
+        color: orange;
+    }
+    p.main_p {
+        color: navy;
+        text-align: center;
+    }
+    p.blue_p {
+        color: blue;
+        text-align: left;
+        font-family: Tahoma;
+    }
+    p.red_p {
+        color: red;
+        text-align: right;
+    }
+    p.green_p {
+        color: green;
+        text-align: justify;
+        font-family: Verdana;
+    }
+    p.orange_p {
+        color: orange;
+        text-align: center;
+    }
+    #bgimage{
+        background-image: url(fon9.jpg);
+    }
